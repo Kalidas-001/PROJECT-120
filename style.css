@@ -1,0 +1,11 @@
+h3{
+    font-size: small;
+    color: red;
+    letter-spacing: 2px;
+    font-style: oblique;
+}
+
+#main_div
+{
+    background-color: darkgrey;
+}
